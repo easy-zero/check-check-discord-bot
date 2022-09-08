@@ -1,0 +1,15 @@
+{ 
+	"token": "",   // discord bot token
+	"clientId": "",   // discord bot client id
+	"guildId": "",   // discord server id
+	"api": {
+		"host": "",   // api server host
+		"contractPort": 9090   // api server node app port
+	},
+	"ipfs": {
+		"url": "",   // ipfs url  ex) http://0.0.0.0
+		"port": 5001,   // ipfs api port
+		"webPort": 8081   // ipfs web port
+	}
+
+}
